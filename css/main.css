@@ -1,0 +1,9 @@
+
+input {
+    transition: height 2s;
+    transition: width 2s;
+height: 25px;
+    width: 280px;
+}
+.expand { width: 300px; }
+.expand { height: 30px; }
